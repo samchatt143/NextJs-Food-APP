@@ -1,1 +1,3 @@
 # NextJs-Food-APP
+The food app is made here using NEXT.JS also with the best features accordingly....
+Have a look here for the website--->
